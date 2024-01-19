@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>chowman | KALYANI</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <nav>
+      <div id="logoDiv">
+        <a href="chowman.html">
+          <img
+            id="logo"
+            src="https://chowman.net/wp-content/uploads/2021/11/Logo-Open-File.png"
+            alt="chowman"
+          />
+        </a>
+      </div>
+      <ul id="navbar">
+        <li class="navElement"><a href="#">Home</a></li>
+        <li class="navElement">
+          <a href="Online_delivery.html">Online Delivery</a>
+        </li>
+        <li class="navElement"><a href="#">Reservation</a></li>
+        <li class="navElement"><a href="#">About Us</a></li>
+      </ul>
+      <div id="SMDiv">
+        <ul id="socialMedia">
+          <li id="facebook" class="social">
+            <a href="#" target="_blank"
+              ><img src="css/images/facebookLogo.png" alt="facebook"
+            /></a>
+          </li>
+          <li id="whatsapp" class="social">
+            <a href="#" target="_blank"
+              ><img src="css/images/whatsappLogo.png" alt="whatsapp"
+            /></a>
+          </li>
+          <li id="instagram" class="social">
+            <a href="#" target="_blank"
+              ><img src="css/images/instagramLogo.png" alt="instagram"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <main>
+      <article class="glass">
+        <h2 class="heading">bao</h2>
+        <ul class="bao">
+          <li class="items">Veg</li>
+          <li class="items">Chicken</li>
+          <li class="items">Fish</li>
+          <li class="items">Slow Cooked Pork</li>
+          <li class="items">Char Sui Pork</li>
+        </ul>
+      </article>
+      <article class="glass">
+        <h2 class="heading">bao</h2>
+        <ul class="bao">
+          <li class="items">Veg</li>
+          <li class="items">Chicken</li>
+          <li class="items">Fish</li>
+          <li class="items">Slow Cooked Pork</li>
+          <li class="items">Char Sui Pork</li>
+        </ul>
+      </article>
+      <article class="glass">
+        <h2 class="heading">bao</h2>
+        <ul class="bao">
+          <li class="items">Veg</li>
+          <li class="items">Chicken</li>
+          <li class="items">Fish</li>
+          <li class="items">Slow Cooked Pork</li>
+          <li class="items">Char Sui Pork</li>
+        </ul>
+      </article>
+      <article class="glass">
+        <h2 class="heading">bao</h2>
+        <ul class="bao">
+          <li class="items">Veg</li>
+          <li class="items">Chicken</li>
+          <li class="items">Fish</li>
+          <li class="items">Slow Cooked Pork</li>
+          <li class="items">Char Sui Pork</li>
+        </ul>
+      </article>
+      <article class="glass">
+        <h2 class="heading">bao</h2>
+        <ul class="bao">
+          <li class="items">Veg</li>
+          <li class="items">Chicken</li>
+          <li class="items">Fish</li>
+          <li class="items">Slow Cooked Pork</li>
+          <li class="items">Char Sui Pork</li>
+        </ul>
+      </article>
+    </main>
+  </body>
+</html>
